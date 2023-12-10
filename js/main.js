@@ -90,8 +90,8 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["My Name is k. mohamed", "I'm a Web Designer", "Love Simplicity"],
-        typeSpeed: 100,
+        strings: ["My Name is kareem mohamed", "I'm a Web Designer and Developer", "Logo designer and Graphic Designer"],
+        typeSpeed: 80,
         backDelay: 900,
         // loop
         loop: true
