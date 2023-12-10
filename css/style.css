@@ -461,11 +461,11 @@ h5 {
 p {
   letter-spacing: 0.5px;
   font-size: 13px;
-  line-height: 34px;
+  line-height: 80px;
   font-weight: 300;
 }
 #home h1 {
-  line-height: 80px;
+  line-height: 100px;
   letter-spacing: 0.6px;
 }
 #home .typed {
